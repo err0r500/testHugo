@@ -16,7 +16,7 @@
 	{
 		background: #b34762;
 		/* background-image: url('images/bg02.png'); */
-	}
+	} 	
 
 		body.is-loading * {
 			-moz-transition: none !important;
@@ -724,7 +724,7 @@
 	#header-wrapper
 	{
 		position: relative;
-		background: #ffffff;
+		background:      #8e2d2d;
 		border-bottom: solid 1px #ccc;
 	}
 
