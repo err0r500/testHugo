@@ -10,7 +10,7 @@
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>gallery</title>
+      <title>gallery </title>
       <link>http://example.com/gallery/</link>
       <pubDate>Mon, 15 Jan 2018 22:54:40 +0000</pubDate>
       

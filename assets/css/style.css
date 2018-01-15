@@ -14,9 +14,9 @@
 
 	body
 	{
-		background: #b34762;
+		background: #252122;
 		/* background-image: url('images/bg02.png'); */
-	} 	
+	}
 
 		body.is-loading * {
 			-moz-transition: none !important;
@@ -724,7 +724,7 @@
 	#header-wrapper
 	{
 		position: relative;
-		background:      #8e2d2d;
+		background: #ffffff;
 		border-bottom: solid 1px #ccc;
 	}
 
